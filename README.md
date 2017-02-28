@@ -1,2 +1,2 @@
 # beego_practice
-beegoprotice
+beego blog, study go
